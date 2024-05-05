@@ -12,3 +12,4 @@
 # @@||td.doubleclick.net^$important
 # @@||auth.estat.com^$important
 @@||mesure.streaming.estat.com^$important
+@@||turnkeylinux.org^$important
