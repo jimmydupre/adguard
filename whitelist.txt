@@ -4,12 +4,12 @@
 @@||cdn.trustcommander.net^$important
 
 @@||static.adsafeprotected.com^$important
-@@||s.amazon-adsystem.com^$important
-@@||1f2e7.v.fwmrm.net^$important
-@@||cm.g.doubleclick.net^$important
-@@||cm.adgrx.com^$important
-@@||via.batch.com^$important
-@@||w.usabilla.com^$important
-@@||td.doubleclick.net^$important
-@@||auth.estat.com^$important
+# @@||s.amazon-adsystem.com^$important
+# @@||1f2e7.v.fwmrm.net^$important
+# @@||cm.g.doubleclick.net^$important
+# @@||cm.adgrx.com^$important
+# @@||via.batch.com^$important
+# @@||w.usabilla.com^$important
+# @@||td.doubleclick.net^$important
+# @@||auth.estat.com^$important
 @@||mesure.streaming.estat.com^$important
