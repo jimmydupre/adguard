@@ -2,7 +2,6 @@
 @@||tf1.fr^$important
 @@||ads.stickyadstv.com^$important
 @@||cdn.trustcommander.net^$important
-
 @@||static.adsafeprotected.com^$important
 # @@||s.amazon-adsystem.com^$important
 # @@||1f2e7.v.fwmrm.net^$important
